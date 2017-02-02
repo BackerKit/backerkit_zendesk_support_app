@@ -9,7 +9,7 @@
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": "http://backerkit.dev/support/zendesk/login.html"
+      "ticket_sidebar": "http://backerkit.dev/support/zendesk"
     }
   },
   "version": "1.0",
