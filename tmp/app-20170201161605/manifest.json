@@ -1,0 +1,17 @@
+{
+  "name": "BackerKit Support",
+  "author": {
+    "name": "BackerKit",
+    "email": "support+zendesk@backerkit.com",
+    "url": "https://www.backerkit.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "https://backerkit.dev"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
