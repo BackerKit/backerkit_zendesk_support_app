@@ -16,13 +16,6 @@
   "frameworkVersion": "2.0",
   "parameters": [
   {
-    "name": "subdomain",
-    "type": "text",
-    "required": true,
-    "secure": false,
-    "default": "yoursubdomain"
-  },
-  {
     "name": "token",
     "type": "text",
     "required": true,
